@@ -43,4 +43,60 @@ Será gerado alguns arquivos como:
 python main.py programa.txt
 ```
 
-pronto, uma lista de tokens encontrados no nosso `programa.txt` foi impressa na tela!
+pronto, uma lista de tokens encontrados no nosso `programa.txt` foi impressa na tela como abaixo:
+
+```terminal
+<10, ':'>
+<1, 'DECLARACOES'>
+<4, 'argumento'>
+<10, ':'>
+<1, 'INT'>
+<4, 'fatorial'>
+<10, ':'>
+<1, 'INT'>
+<10, ':'>
+<1, 'ALGORITMO'>
+<1, 'LER'>
+<4, 'argumento'>
+<1, 'ATRIBUIR'>
+<4, 'argumento'>
+<1, 'A'>
+<4, 'fatorial'>
+<1, 'SE'>
+<4, 'argumento'>
+<8, '='>
+<2, '0'>
+<1, 'ENTAO'>
+<1, 'ATRIBUIR'>
+<2, '1'>
+<1, 'A'>
+<4, 'fatorial'>
+<1, 'ENQUANTO'>
+<4, 'argumento'>
+<8, '>'>
+<2, '1'>
+<1, 'INICIO'>
+<1, 'ATRIBUIR'>
+<4, 'fatorial'>
+<9, '*'>
+<11, '('>
+<4, 'argumento'>
+<9, '-'>
+<2, '1'>
+<12, ')'>
+<1, 'A'>
+<4, 'fatorial'>
+<1, 'ATRIBUIR'>
+<4, 'argumento'>
+<9, '-'>
+<2, '1'>
+<1, 'A'>
+<4, 'argumento'>
+<1, 'FIM'>
+<1, 'IMPRIMIR'>
+<4, 'fatorial'>
+```
+
+# Observações importantes
+
+Se os comandos iniciados com `python` não forem reconhecidos pelo terminal experimente `python3`, ou verifique se você adicionou python as variaveis de ambiente do seu sistema.
