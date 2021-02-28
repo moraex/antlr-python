@@ -2,10 +2,9 @@
 
 ## Pré requisitos
 
-Para usar Antlr com python é necessario ter isntalado:
+Para usar Antlr com python é necessario ter instalado:
 
 - [python3](https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe)
-- [antlr-4.9.1-complete.jar](https://www.antlr.org/download/antlr-4.9.1-complete.jar)
 - Java jdk1.8.0_211+
 
 ## Instalação
