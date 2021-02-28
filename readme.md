@@ -5,6 +5,10 @@
 Para usar Antlr com python é necessario ter instalado:
 
 - [python3](https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe)
+  - após instalar o python, instale o Antlr para python através do terminal
+  ```terminal
+  pip install antlr4-python3-runtime
+  ```
 - Java jdk1.8.0_211+
 
 ## Instalação
